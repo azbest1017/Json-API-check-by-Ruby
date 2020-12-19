@@ -1,1 +1,3 @@
-# Json-API-check-by-Ruby
+Ruby
+Api request and get data
+Check last link after redirect
